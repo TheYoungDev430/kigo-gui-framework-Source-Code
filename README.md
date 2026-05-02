@@ -1,4 +1,4 @@
-This is the source code of the kigo-gui-framework library, who, as of now, has ammased 445 downloads.
+This is the source code of the kigo-gui-framework library, who, as of now, has ammased 20,000+ downloads. By the way, this is the first version. Later versions have some really striking features, check that out. Lets see how many downloads we amass in the first half!
 THESE ARE THE RULES:
 All the files need to be installed in order for you to get the library on.
 Piwheels.org offers a Raspberry Pi edition of this library. The .zip edition will be released soon.
