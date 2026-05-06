@@ -3,7 +3,7 @@ THESE ARE THE RULES:
 All the files need to be installed in order for you to get the library on.
 Piwheels.org offers a Raspberry Pi edition of this library. The .zip edition will be released soon.
 WARNING:
-kigo-gui-framework does not support
+kigo-gui-framework (ONLY VERSION 0.1.0, LATER VERSIONS HAVE THIS) does not support
 progress bars and
 checkboxes.
 So if you are using these in your project, you might as well forget about it.
@@ -12,4 +12,5 @@ Labels (label function),
 Text boxes (TextBox function),
 Buttons.
 Dropdowns.
+Much more (in later versions)
 For more info, go to the PyPI page .
